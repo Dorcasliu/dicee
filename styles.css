@@ -1,0 +1,33 @@
+body{
+  text-align: center;
+  background-color: #393e46;
+}
+
+h1 {
+  margin: 3rem;
+  font-size: 8rem;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  color: #66CDAA;
+}
+
+p{
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+  font-weight:100;
+  color: #66CDAA;
+}
+
+button{
+  display: block;
+  margin-top: 20px;
+  text-align: center;
+  background-color: #c90c0c;
+  border: none;
+  border-radius: 30px;
+  width: 15rem;
+}
+
+.row{
+  padding: 100px 400px;
+}
